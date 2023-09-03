@@ -1,5 +1,3 @@
-## Student Info
-Victor Astinov
 
 ## Build Info
 Windows 10 Home, Version 10.0.19045 Build 19045. Will most likely only properly run on windows, \ is used in file paths instead of /
